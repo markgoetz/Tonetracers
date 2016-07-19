@@ -1,0 +1,7 @@
+{
+	'palette': 'jail',
+	'velocity': 0,
+	'debuggers': 0,
+	'is_jail': true,
+	'song': ''
+}

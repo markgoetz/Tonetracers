@@ -1,0 +1,8 @@
+{
+	'palette': 'jail',
+	'velocity': 0,
+	'debuggers': 0,
+	'is_jail': true,
+	'song': 'jail',
+	'message': ["you've been caught!", "If only you could get out somehow..."]
+}

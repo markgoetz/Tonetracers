@@ -1,0 +1,7 @@
+{
+	'palette': 'black',
+	'velocity': 200,
+	'debuggers': 1,
+	'song': 'song1',
+	'message': ['this is it!', 'things are getting glitchy']
+}

@@ -1,0 +1,7 @@
+{
+	'palette': 'blue',
+	'velocity': 100,
+	'debuggers': 0,
+	'song': 'song1',
+	'message': ['use shift key to glitch through walls',"try to keep up with the others"]
+}

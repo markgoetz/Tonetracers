@@ -1,0 +1,8 @@
+{
+	'palette': 'purple',
+	'velocity': 130,
+	'debuggers': 1,
+	'song': 'song1',
+	'message': ['debuggers are tracing you!', "don't let them catch you glitching"]
+}
+

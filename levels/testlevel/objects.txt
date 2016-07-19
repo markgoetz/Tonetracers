@@ -1,0 +1,7 @@
+{
+	'palette': 'blue',
+	'velocity': 50,
+	'debuggers': 1,
+	'message': ['test test'],
+	'song': 'song1'
+}

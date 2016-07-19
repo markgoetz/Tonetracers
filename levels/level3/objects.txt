@@ -1,0 +1,7 @@
+{
+	'palette': 'red',
+	'velocity': 160,
+	'debuggers': 1,
+	'song': 'song1',
+	'message': ["breakpoints! you can't", "glitch through them!"]
+}
